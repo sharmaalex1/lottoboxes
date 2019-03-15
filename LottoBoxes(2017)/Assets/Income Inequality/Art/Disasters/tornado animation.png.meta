@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 90dc12419b4978848a16b822548c8861
+timeCreated: 1479406288
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tornado animation_0
+    21300002: tornado animation_1
+    21300004: tornado animation_2
+    21300006: tornado animation_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tornado animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 103}
+        - {x: 111, y: 171}
+        - {x: -101, y: 171}
+        - {x: -101, y: 138}
+        - {x: -87, y: 114}
+        - {x: -35, y: 85}
+        - {x: 5, y: 29}
+        - {x: -16, y: -51}
+        - {x: 20, y: -171}
+        - {x: 44, y: -171}
+        - {x: 68, y: -33}
+        - {x: 118, y: 16}
+        - {x: 128, y: 30}
+    - name: tornado animation_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142, y: 102}
+        - {x: 137, y: 131}
+        - {x: 111, y: 171}
+        - {x: -94, y: 171}
+        - {x: -94, y: 163}
+        - {x: -73, y: 109}
+        - {x: -55, y: 94}
+        - {x: 3, y: 69}
+        - {x: 5, y: -34}
+        - {x: 7, y: -122}
+        - {x: 18, y: -170}
+        - {x: 40, y: -170}
+        - {x: 42, y: -165}
+        - {x: 43, y: -147}
+        - {x: 142, y: 41}
+    - name: tornado animation_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150, y: 126}
+        - {x: 131, y: 171}
+        - {x: -71, y: 171}
+        - {x: -73, y: 170}
+        - {x: -73, y: 168}
+        - {x: -49, y: 100}
+        - {x: 29, y: 62}
+        - {x: 5, y: -39}
+        - {x: 15, y: -171}
+        - {x: 42, y: -171}
+        - {x: 43, y: -170}
+        - {x: 93, y: -68}
+        - {x: 150, y: 15}
+    - name: tornado animation_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 103}
+        - {x: 111, y: 171}
+        - {x: -101, y: 171}
+        - {x: -101, y: 138}
+        - {x: -87, y: 114}
+        - {x: -35, y: 85}
+        - {x: 5, y: 29}
+        - {x: -16, y: -51}
+        - {x: 20, y: -171}
+        - {x: 44, y: -171}
+        - {x: 68, y: -33}
+        - {x: 118, y: 16}
+        - {x: 128, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

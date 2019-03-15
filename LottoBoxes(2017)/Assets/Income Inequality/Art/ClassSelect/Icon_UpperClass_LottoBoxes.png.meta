@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 12e04df765e31434c96d727147ec4a8d
+timeCreated: 1477583855
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon_UpperClass_LottoBoxes_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Icon_UpperClass_LottoBoxes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 512
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 212, y: 100}
+        - {x: 213, y: 103}
+        - {x: 215, y: 105}
+        - {x: 217, y: 110}
+        - {x: 219, y: 112}
+        - {x: 221, y: 117}
+        - {x: 223, y: 119}
+        - {x: 229, y: 131}
+        - {x: 231, y: 133}
+        - {x: 232, y: 136}
+        - {x: 234, y: 138}
+        - {x: 236, y: 143}
+        - {x: 238, y: 145}
+        - {x: 240, y: 150}
+        - {x: 242, y: 152}
+        - {x: 244, y: 157}
+        - {x: 246, y: 159}
+        - {x: 252, y: 171}
+        - {x: 254, y: 173}
+        - {x: 255, y: 176}
+        - {x: 256, y: 178}
+        - {x: 256, y: 186}
+        - {x: 206, y: 186}
+        - {x: 206, y: 211}
+        - {x: -222, y: 211}
+        - {x: -222, y: 186}
+        - {x: -256, y: 186}
+        - {x: -256, y: 91}
+        - {x: -255, y: 91}
+        - {x: -249, y: 86}
+        - {x: -248, y: 86}
+        - {x: -246, y: 84}
+        - {x: -245, y: 84}
+        - {x: -243, y: 82}
+        - {x: -242, y: 82}
+        - {x: -240, y: 80}
+        - {x: -239, y: 80}
+        - {x: -237, y: 78}
+        - {x: -236, y: 78}
+        - {x: -234, y: 76}
+        - {x: -233, y: 76}
+        - {x: -229, y: 72}
+        - {x: -225, y: 70}
+        - {x: -222, y: 68}
+        - {x: -222, y: -211}
+        - {x: 206, y: -211}
+        - {x: 206, y: 92}
+        - {x: 208, y: 93}
+        - {x: 210, y: 98}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

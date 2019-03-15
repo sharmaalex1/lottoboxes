@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 5c7b3ee3b20f5cd4b9592f5bf668993e
+timeCreated: 1466697180
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Prop_Lights_Row_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Prop_Lights_Row_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 830
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: -21}
+        - {x: -34, y: -64}
+        - {x: 34, y: -64}
+        - {x: 45, y: -59}
+        - {x: 35, y: 15}
+        - {x: 141, y: -64}
+        - {x: 201, y: -64}
+        - {x: 236, y: -49}
+        - {x: 305, y: -52}
+        - {x: 321, y: -64}
+        - {x: 372, y: -64}
+        - {x: 385, y: -60}
+        - {x: 403, y: -53}
+        - {x: 415, y: 31}
+        - {x: 415, y: 64}
+        - {x: -415, y: 64}
+        - {x: -415, y: 32}
+        - {x: -395, y: -50}
+        - {x: -371, y: -64}
+        - {x: -289, y: -64}
+        - {x: -313, y: 27}
+        - {x: -224, y: -64}
+        - {x: -122, y: -64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

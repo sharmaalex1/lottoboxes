@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 8cce0c0e2f7bcde45856fc3364601938
+timeCreated: 1474470563
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Tab_White_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: UI_Tab_White_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 511
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 58, y: 29, z: 0, w: 15}
+      outline:
+      - - {x: -203.5, y: 127.5}
+        - {x: -209.5, y: 122.5}
+        - {x: -212.5, y: 118.5}
+        - {x: -216.5, y: 112.5}
+        - {x: -216.5, y: 111.5}
+        - {x: -222.5, y: 103.5}
+        - {x: -224.5, y: 99.5}
+        - {x: -226.5, y: 97.5}
+        - {x: -230.5, y: 90.5}
+        - {x: -235.5, y: 79.5}
+        - {x: -235.5, y: 77.5}
+        - {x: -239.5, y: 70.5}
+        - {x: -242.5, y: 63.5}
+        - {x: -243.5, y: 58.5}
+        - {x: -245.5, y: 55.5}
+        - {x: -248.5, y: 46.5}
+        - {x: -252.5, y: 30.5}
+        - {x: -253.5, y: 21.5}
+        - {x: -254.5, y: 20.5}
+        - {x: -254.5, y: 14.5}
+        - {x: -255.5, y: 13.5}
+        - {x: -255.5, y: -16.5}
+        - {x: -254.5, y: -22.5}
+        - {x: -252.5, y: -32.5}
+        - {x: -251.5, y: -36.5}
+        - {x: -250.5, y: -37.5}
+        - {x: -249.5, y: -44.5}
+        - {x: -248.5, y: -47.5}
+        - {x: -247.5, y: -48.5}
+        - {x: -245.5, y: -56.5}
+        - {x: -241.5, y: -64.5}
+        - {x: -241.5, y: -66.5}
+        - {x: -238.5, y: -73.5}
+        - {x: -229.5, y: -92.5}
+        - {x: -227.5, y: -94.5}
+        - {x: -222.5, y: -104.5}
+        - {x: -220.5, y: -106.5}
+        - {x: -216.5, y: -112.5}
+        - {x: -212.5, y: -119.5}
+        - {x: -207.5, y: -125.5}
+        - {x: -202.5, y: -127.5}
+        - {x: 255.5, y: -127.5}
+        - {x: 255.5, y: 127.5}
+    outline:
+    - - {x: 256, y: 256}
+      - {x: 360.12457, y: 244.9338}
+      - {x: 446.2451, y: 213.64871}
+      - {x: 499.47046, y: 167.55417}
+      - {x: 510.5976, y: 114.62035}
+      - {x: 477.7025, y: 63.999992}
+      - {x: 406.47302, y: 24.445816}
+      - {x: 309.22537, y: 2.797104}
+      - {x: 202.77458, y: 2.7971115}
+      - {x: 105.52695, y: 24.445831}
+      - {x: 34.297485, y: 64.000015}
+      - {x: 1.4023895, y: 114.62038}
+      - {x: 12.529541, y: 167.5542}
+      - {x: 65.754944, y: 213.64874}
+      - {x: 151.87546, y: 244.93384}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

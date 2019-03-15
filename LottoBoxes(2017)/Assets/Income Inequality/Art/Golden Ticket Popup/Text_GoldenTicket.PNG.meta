@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 195ab04a460b11c4282afd1bd8f6d42c
+timeCreated: 1465935961
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Text_GoldenTicket_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Text_GoldenTicket_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 512
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 223, y: -85}
+        - {x: 249, y: -77}
+        - {x: 256, y: -43}
+        - {x: 256, y: 18}
+        - {x: 188, y: 18}
+        - {x: 159, y: 15}
+        - {x: 154, y: 8}
+        - {x: 154, y: -68}
+        - {x: 152, y: -58}
+        - {x: 154, y: -4}
+        - {x: 154, y: 2}
+        - {x: 152, y: 8}
+        - {x: 127, y: 14}
+        - {x: -32, y: -3}
+        - {x: -35, y: -4}
+        - {x: -35, y: -71}
+        - {x: -21, y: -98}
+        - {x: 102, y: -98}
+        - {x: 205, y: -85}
+        - {x: 211, y: -57}
+        - {x: 214, y: -71}
+      - - {x: 61, y: 98}
+        - {x: -35, y: 98}
+        - {x: -96, y: 93}
+        - {x: -100, y: 82}
+        - {x: -124, y: 91}
+        - {x: -246, y: 85}
+        - {x: -254, y: 61}
+        - {x: -256, y: 51}
+        - {x: -256, y: -6}
+        - {x: -236, y: -18}
+        - {x: -110, y: -18}
+        - {x: 64, y: -2}
+        - {x: 64, y: 97}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

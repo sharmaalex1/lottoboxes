@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: 23fd348c2691584448bb1c6c1dcef9b9
+timeCreated: 1463603668
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon_TotalBox_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Icon_TotalBox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 512
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 250, y: -19.5}
+        - {x: 251, y: -18.5}
+        - {x: 254, y: 23.5}
+        - {x: 255, y: 49.5}
+        - {x: 256, y: 50.5}
+        - {x: 256, y: 87.5}
+        - {x: -100, y: 87.5}
+        - {x: -101, y: 86.5}
+        - {x: -231, y: 86.5}
+        - {x: -232, y: 85.5}
+        - {x: -256, y: 85.5}
+        - {x: -256, y: 61.5}
+        - {x: -254, y: 44.5}
+        - {x: -253, y: 36.5}
+        - {x: -251, y: 18.5}
+        - {x: -248, y: -6.5}
+        - {x: -246, y: -23.5}
+        - {x: -244, y: -41.5}
+        - {x: -243, y: -49.5}
+        - {x: -242, y: -58.5}
+        - {x: -241, y: -66.5}
+        - {x: -239, y: -83.5}
+        - {x: -236, y: -87.5}
+        - {x: 246, y: -87.5}
+        - {x: 247, y: -73.5}
+        - {x: 248, y: -46.5}
+        - {x: 249, y: -45.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

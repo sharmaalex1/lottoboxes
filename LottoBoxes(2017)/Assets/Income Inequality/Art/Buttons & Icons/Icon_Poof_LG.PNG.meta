@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: c9d507a46d972f7459566ff683da9a24
+timeCreated: 1468603022
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon_Poof_LG_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Icon_Poof_LG_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 505
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 195.5, y: -183}
+        - {x: 209.5, y: -157}
+        - {x: 209.5, y: -135}
+        - {x: 208.5, y: -126}
+        - {x: 230.5, y: -115}
+        - {x: 244.5, y: -99}
+        - {x: 250.5, y: -81}
+        - {x: 250.5, y: -69}
+        - {x: 237.5, y: -53}
+        - {x: 251.5, y: -13}
+        - {x: 252.5, y: 7}
+        - {x: 252.5, y: 18}
+        - {x: 247.5, y: 36}
+        - {x: 246.5, y: 57}
+        - {x: 252.5, y: 73}
+        - {x: 252.5, y: 125}
+        - {x: 246.5, y: 143}
+        - {x: 238.5, y: 157}
+        - {x: 211.5, y: 183}
+        - {x: 190.5, y: 192}
+        - {x: 172.5, y: 196}
+        - {x: 145.5, y: 194}
+        - {x: 134.5, y: 188}
+        - {x: 98.5, y: 193}
+        - {x: 65.5, y: 194}
+        - {x: 54.5, y: 192}
+        - {x: 35.5, y: 179}
+        - {x: 25.5, y: 182}
+        - {x: 1.5, y: 193}
+        - {x: -20.5, y: 206}
+        - {x: -33.5, y: 209}
+        - {x: -84.5, y: 209}
+        - {x: -89.5, y: 208}
+        - {x: -96.5, y: 206}
+        - {x: -103.5, y: 206}
+        - {x: -129.5, y: 189}
+        - {x: -157.5, y: 171}
+        - {x: -176.5, y: 163}
+        - {x: -194.5, y: 145}
+        - {x: -202.5, y: 132}
+        - {x: -208.5, y: 104}
+        - {x: -218.5, y: 101}
+        - {x: -245.5, y: 74}
+        - {x: -252.5, y: 51}
+        - {x: -252.5, y: 10}
+        - {x: -240.5, y: -10}
+        - {x: -251.5, y: -38}
+        - {x: -252.5, y: -44}
+        - {x: -252.5, y: -110}
+        - {x: -250.5, y: -122}
+        - {x: -240.5, y: -143}
+        - {x: -229.5, y: -153}
+        - {x: -207.5, y: -167}
+        - {x: -166.5, y: -172}
+        - {x: -143.5, y: -195}
+        - {x: -122.5, y: -205}
+        - {x: -109.5, y: -207}
+        - {x: -76.5, y: -205}
+        - {x: -50.5, y: -192}
+        - {x: -40.5, y: -184}
+        - {x: -30.5, y: -196}
+        - {x: -14.5, y: -202}
+        - {x: 10.5, y: -201}
+        - {x: 24.5, y: -189}
+        - {x: 39.5, y: -189}
+        - {x: 71.5, y: -208}
+        - {x: 80.5, y: -209}
+        - {x: 139.5, y: -209}
+        - {x: 146.5, y: -208}
+        - {x: 161.5, y: -202}
+        - {x: 175.5, y: -197}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
